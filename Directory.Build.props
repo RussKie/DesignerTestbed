@@ -3,6 +3,8 @@
 
   <PropertyGroup>
     <ApplicationFont>Courier New, 15pt, style=Bold, Italic</ApplicationFont>
+    <!-- Disable global usings -->
+    <DisableImplicitNamespaceImports>true</DisableImplicitNamespaceImports>
   </PropertyGroup>
 
 </Project>
